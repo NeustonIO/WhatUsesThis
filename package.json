@@ -2,7 +2,7 @@
   "name": "io.neuston.whatusesthis",
   "displayName": "What Uses This",
   "author": "Neuston",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "unity": "2020.3",
   "description": "Helps you figure out what uses an asset (directly or indirectly).",
   "category": "",
